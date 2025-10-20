@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -20,3 +21,12 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+=======
+*.pyc
+__pycache__/
+.env
+voice_*.mp3
+bot_log.txt
+
+>>>>>>> 144c2a5 (AI Telegram bot by Vepa)
+

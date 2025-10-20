@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+openai==0.28.1
+python-dotenv
+gTTS
