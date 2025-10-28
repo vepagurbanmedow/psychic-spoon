@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: vepa-ai-bot
+    env: python
+    plan: free
+    branch: main
+    buildCommand: ""
+    startCommand: bash start.sh
+    autoDeploy: true
+
